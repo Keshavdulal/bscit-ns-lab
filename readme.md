@@ -45,7 +45,8 @@ This can simply be added by using two forward slashes.
 
 ### Multi line comment
 This type of comment can be added by adding a forward slash(/) followed by an asterisk(*) at the begining of the comment and by adding an asterisk(*) followed by a forward slash(/) at the end of the comment.
-	/*
-	This is a multi line comment.
-	I can add multiple lines here.
-	*/
+
+> /*
+> This is a multi line comment.
+> I can add multiple lines here.
+> */
